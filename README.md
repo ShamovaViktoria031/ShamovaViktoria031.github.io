@@ -1,4 +1,6 @@
 # ShamovaViktoria031.github.io
+![PAINT](https://user-images.githubusercontent.com/115200474/206611791-d76c5bfa-e23e-499c-b6c0-10776e68f211.png)
+
 
 <link rel="stylesheet" href="./css/style.css">
 
